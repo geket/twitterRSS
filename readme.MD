@@ -1,8 +1,9 @@
-Install the dependencies:
+# Install the dependencies:
 
 pip install discord.py tweepy
 
-Audit:
+#Audit:
+
 Import the necessary libraries:
 
 import os
