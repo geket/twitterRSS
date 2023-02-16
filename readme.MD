@@ -2,7 +2,7 @@
 
 pip install discord.py tweepy
 
-#Audit:
+# Audit:
 
 Import the necessary libraries:
 
